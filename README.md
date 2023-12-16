@@ -1,4 +1,6 @@
 # Latte-Dock-Templates
+![topbar](https://github.com/fortunef/Latte-Dock-Templates/assets/141419112/dbaf0867-d237-4f8e-997c-59d6853ccff1)
+
 dude on r/unixporn asked for the config for my topbar
 
 # How to use
